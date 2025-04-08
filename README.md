@@ -1,1 +1,1 @@
-# lmd
+# LazyMedia Deluxe (mod)
